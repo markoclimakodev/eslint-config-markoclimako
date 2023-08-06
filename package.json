@@ -6,7 +6,7 @@
   "main": "next.js",
   "license": "MIT",
   "repository": {
-    "url": "markoclimako/eslint-config-markoclimako"
+    "url": "git+https://github.com/markoclimako/eslint-config-markoclimako.git"
   },
   "peerDependencies": {
     "eslint": "^8.46.0",
